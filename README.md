@@ -104,5 +104,5 @@ Security Recommendations
 This project was conducted **solely for educational and cybersecurity learning purposes**. All information presented in this assessment was obtained through **passive Open-Source Intelligence (OSINT)** techniques using publicly available sources. No unauthorized access, exploitation, or intrusion into the target organization's systems was performed. This project is intended to demonstrate threat intelligence methodologies and promote responsible cybersecurity practices.
 
 ---
-## Author
-Chigbo Valentine
+## 🧑‍💻Author
+*Chigbo Valentine*
